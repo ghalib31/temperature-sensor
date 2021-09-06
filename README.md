@@ -4,7 +4,7 @@
 
 ## Pre-requisite
 Docker should be installed  
-Run below to start container for influxdb
+Run below from root of the project(temperature-sensor) to start container for influxdb
 ```bash
 docker-compose up
 ```
