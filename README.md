@@ -1,3 +1,5 @@
+[![ghalib31](https://circleci.com/gh/ghalib31/temperature-sensor.svg?style=shield)](https://app.circleci.com/pipelines/github/ghalib31/temperature-sensor)
+
 # Qardio Assignment
 
 ## Pre-requisite
